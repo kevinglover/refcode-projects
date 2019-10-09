@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my project site for Refcode Level 2, where I lead discussions
   on what it takes to think like a programmer and build awesome sites using
   best practices for web development.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/refcode-projects" # the subpath of your site, e.g. /blog
+url: "https://glover.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: imkevinglover
 github_username:  kevinglover
 
