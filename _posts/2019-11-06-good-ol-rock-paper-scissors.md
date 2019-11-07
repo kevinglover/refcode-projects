@@ -6,4 +6,4 @@ categories: demo javascript
 ---
 
 It was a lot of fun to rebuild the classic game of Rock-Paper-Scissors using vanilla javascript!
-[Final Results](https://glover.io/refcode-projects/demos/rock-paper-sissors/)
+[Final Results](https://glover.io/refcode-projects/demos/rock-paper-scissors/)
